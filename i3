@@ -1,0 +1,1 @@
+/home/mellace/.config/i3
