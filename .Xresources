@@ -1,1 +1,50 @@
-/home/mellace/.Xresources
+URxvt.font: xft:Fira Code:pixelsize=14:antialias=true:hinting=true
+URxvt.internalBorder: 15
+URxvt.background: #222222
+URxvt.foreground: #FFFFFF
+URxvt.letterSpace: 0
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: Full
+URxvt.scrollBar: false
+
+URxvt.clipboard.autocopy: true
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+
+! special
+*.foreground:   #b8d7da
+*.background:   #080b0c
+*.cursorColor:  #b8d7da
+
+! black
+*.color0:       #101414
+*.color8:       #aebae5
+
+! red
+*.color1:       #181e1e
+*.color9:       #54d680
+
+! green
+*.color2:       #272f30
+*.color10:      #cabd6b
+
+! yellow
+*.color3:       #3c4849
+*.color11:      #e2887f
+
+! blue
+*.color4:       #576768
+*.color12:      #e381d3
+
+! magenta
+*.color5:       #778c8d
+*.color13:      #f098e1
+
+! cyan
+*.color6:       #9cb7b9
+*.color14:      #7a96e5
+
+! white
+*.color7:       #cae8ea
+*.color15:      #8497d2
