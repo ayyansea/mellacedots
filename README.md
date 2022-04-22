@@ -1,5 +1,7 @@
 # My i3-gaps dotfiles.
 
+[!preview](src/preview)
+
 This is a pretty simple setup (well, for now), as I really only want a basic workspace with no fancy stuff.
 
 Dependencies:
