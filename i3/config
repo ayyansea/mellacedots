@@ -150,8 +150,8 @@ bar {
 	font pango:Fira Code 10
 
 	colors {
-		background #222222
-		statusline #ffffff
+		background #0d0d0d
+		statusline #d5e1ec
 
 		focused_workspace #222222 #aaaaaa #222222
 	}
