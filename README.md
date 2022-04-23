@@ -12,5 +12,7 @@ Dependencies:
 * picom (the compositor)
 * rofi (the app launcher)
 * pactl (for changing system volume)
+* alacritty (replaced urxvt with this terminal)
+* vundle (vim plugins)
 
 That's about it.
